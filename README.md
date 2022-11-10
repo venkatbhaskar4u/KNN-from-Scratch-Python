@@ -1,1 +1,1 @@
-# KNN-from-Scratch-Python
+# KMeans-from-Scratch-Python
