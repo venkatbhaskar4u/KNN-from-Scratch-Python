@@ -25,5 +25,8 @@ This project implements the K-Nearest Neighbors (KNN) classification algorithm f
 Prediction accuracy of 80% on test dataset  
 Sample plot illustrating classification decision boundary
 
+"An 80% accuracy rate represents realistic performance and avoid overfitting, which is common when training on limited or clean datasets. This provides a more meaningful benchmark for practical deployment."
+
+
 ## Author
 Venkat Bhaskar Reddem
