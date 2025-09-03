@@ -22,7 +22,7 @@ This project implements the K-Nearest Neighbors (KNN) classification algorithm f
 
 ## Results & Example Outputs
 - Example:  
-Prediction accuracy of X% on test dataset  
+Prediction accuracy of 80% on test dataset  
 Sample plot illustrating classification decision boundary
 
 ## Author
